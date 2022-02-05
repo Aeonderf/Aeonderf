@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aeonderf
-- 👀 I’m interested in becoming a Front-end Web Developer
+- 👀 I’m interested in becoming a Front-end Web Developer !
 - 🌱 I’m currently learning HTML, CSS, JS, Reactjs, Python
 - 📫 How to reach me ipawar05@gmail.com
 
